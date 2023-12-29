@@ -3,15 +3,15 @@
 # TLERAD: Transfer Learning for Enhanced Ransomware Attack Detection
 
 This repo has the following structure:
-1. Code
-2. Raw dataset
-3. Sample Dataset
+1. code
+2. raw_dataset
+3. sample_dataset
 
 The code includes all the python files for the proposed TLERAD algorithm.
-The raw dataset is unprocessed ransomware traffic files, which could be processed using the pre-processing file in the “Code” folder.
-Sample Dataset: Includes a small pre-processed dataset which contains the dynamic analysis of 582 samples of ransomware and 942 of good applications (goodware), i.e., 1524 samples in total. The dataset was retrieved and analyzed with a Sandbox environment.
+The raw dataset is unprocessed ransomware traffic files, which could be processed using the pre-processing file in the “code” folder.
+Sample Dataset: Includes a small pre-processed dataset which contains the dynamic analysis of 585 samples of ransomware and 950 of normal traffic (goodware), i.e., 1535 samples in total. The dataset was retrieved and analyzed with a Sandbox environment.
 
-## Ransomware Samples
+## Ransomware Sample
 The Ransomware samples belong to different families that are identified with the following codes:
 
 | FAMILY NAME       | ID  |
