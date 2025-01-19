@@ -1,6 +1,6 @@
 
 
-# TLERAD: Transfer Learning for Enhanced Ransomware Attack Detection
+# A Computational Intelligent Algorithm for Ransomware attack Detection
 
 This repo has the following structure:
 1. code
